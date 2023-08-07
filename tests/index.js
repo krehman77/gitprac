@@ -1,5 +1,6 @@
-const change='devlop-7'
+const change='devlop-8'
 
-const featurechange='devlop-fc2.1'
+//merged main changes, that were originally added in feature7, and updated feature8
+const featurechange='devlop-fc3'
 
 const mainchange='master-mc1'
